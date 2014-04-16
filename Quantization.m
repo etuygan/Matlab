@@ -1,4 +1,3 @@
-
 function Quantization(img, q_bit)
 
 %img = image path -> 'Lena.jpg'
